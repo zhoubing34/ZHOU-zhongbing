@@ -1,1 +1,170 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<!-- saved from url=(0033)http://jrper.github.io/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="James Percival : News">
+    <link rel="stylesheet" type="text/css" media="screen" href="./Home page_files/stylesheet.css">
+    <title>Home page</title>
+    <link type="application/atom+xml" rel="alternate" href="http://jrper.github.io/feed.xml" title="jrper.github.io">
+  </head>
+  <body>
+    
+
+<!-- HEADER -->
+    <div id="header_wrap" class="outer">
+      <header class="inner">
+    <a id="rss" href="http://jrper.github.io/feed.xml"> <img id="rss-icon" src="./Home page_files/feed-icon.png"></a>
+        <h1 id="project_title">James Percival</h1>
+        <h2 id="project_tagline">My Github Pages material</h2>
+  Last updated : 
+        30th
+        
+  August 2018
+      </header>
+    </div>
+
+    <!-- MENU -->
+<div id="menu">
+<nav>
+<ul>
+<li><a href="http://jrper.github.io/index.html">Home</a></li>
+<li>
+    <div class="submenu submenu_3item">
+    <a href="http://jrper.github.io/blog/">Blog</a>
+    <ul>
+    <li> <a href="http://jrper.github.io/blog/index.html">by date</a></li>
+    <li> <a href="http://jrper.github.io/tags.html">by tag</a></li>
+    <li> <a href="http://jrper.github.io/blog.html">by title</a></li>
+    </ul>
+    </div>
+</li>
+<li>
+    <div class="submenu submenu_3item">
+    <a href="http://jrper.github.io/videos/date.html">Videos</a>
+    <ul>
+    <li> <a href="http://jrper.github.io/videos/date.html">by date</a></li>
+    <li> <a href="http://jrper.github.io/videos/tags.html">by tag</a></li>
+    <li> <a href="http://jrper.github.io/videos/titles.html">by title</a></li>
+    </ul>
+    </div>
+</li>
+<li><a href="http://jrper.github.io/training.html">Fluidity Training</a></li>
+<li><a href="http://jrper.github.io/paraview.html">Paraview Plugins</a></li>
+<li>
+    <div class="submenu submenu_1item">
+    <a href="http://jrper.github.io/presentations.html">Presentations</a>
+    <ul>
+    <li><a href="http://jrper.github.io/presentations/index.html">slides</a></li>
+    </ul>
+</div></li>
+<li><a href="http://jrper.github.io/publications.html">Publications</a></li>
+<li>
+    <div class="submenu submenu_1item">
+    <a href="http://jrper.github.io/teaching.html">Teaching</a>
+    <ul>
+    <li><a href="http://jrper.github.io/teaching/index.html">notebooks</a></li>
+    </ul>
+</div></li>
+<li><a href="http://jrper.github.io/index.html#links">Links</a></li>
+<li><a href="http://jrper.github.io/news.html">News</a></li>
+<li><a href="http://jrper.github.io/contact.html">Contact</a></li>
+</ul>
+<a id="forkme_banner" href="https://github.com/jrper">View on GitHub</a>
+</nav>
+</div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <div id="title">
+          <h1>Home page</h1>
+        </div>
+        <hr>
+        <div>
+    <img class="TextWrapped" src="./Home page_files/JRP_headshot.jpg" width="260px">
+    <h2> Biography </h2> 
+    I am James Percival. I work in the Department of Earth Science and Engineering of Imperial College London, researching Computational Physics problems in fluids and porous media. My interests span the boundaries between applied mathematics, physics and engineering, as well as across geophysical and computational fluid dynamics. <br>
+
+    I received my Ph.D in Meteorology and Mathematics from Reading University and a B.A. and CASM (Part III) in Mathematics from the University of Cambridge.
+</div>
+
+<h2 id="presentations" style="clear: left;"> Presentations </h2>
+<p> 
+   Presentation to Norms group October 2013: 
+   <a href="http://jrper.github.io/talks/NORMS/MeshAdaptivity.pptx"> 
+      Mesh Adaptivity
+   </a> <br>
+
+   Presentation to APS-DFD November 2014: Mesh adaptivity (<a href="http://jrper.github.io/talks/APS-DFD2014/APStalk-jrper.pdf">pdf</a>) (<a href="http://jrper.github.io/talks/APS-DFD2014/APStalk-jrper-1.pptx">pptx</a>) 
+</p>
+<h2> Latest Publications </h2>
+
+  
+     
+     <a href="http://www.sciencedirect.com/science/article/pii/S0021999116302030">Higher-order conservative interpolation between control-volume meshes: Application to advection and multiphase flow problems with dynamic mesh adaptivity</a><br>
+     A. Adam, D. Pavlidis, <strong>J.R. Percival</strong>, P. Salinas, Z. Xie, F. Fang, C.C. Pain, A.H. Muggeridge and M.D. Jackson;
+      <em> Journal of Computational Physics</em>
+      (2016)<br> 
+  
+
+  
+     
+     <a href="http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0398.1">Two-dimensional evaluation of ATHAM-Fluidity, a nonhydrostatic atmospheric model using mixed continuous/discontinuous finite-elements and anisotropic grid optimization</a><br>
+     J. Savre, <strong>J.R. Percival</strong>, M. Herzog and C.C. Pain;
+      <em> Monthly Weather Review</em>
+      (2016)<br> 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+<br>
+<a href="http://jrper.github.io/publications.html"> More papers </a>
+<h2 id="links"> Links </h2>
+    <a href="http://fluidityproject.github.io/"> 
+       <img class="Logo" src="./Home page_files/fluiditylogo-transparent.png" width="80px">
+       Main <em>Fluidity</em> Github pages site 
+    </a> <br>
+    <a href="http://multifluids.github.io/">
+       <img class="Logo" src="./Home page_files/IC-FERST-logo.png" width="80px"> 
+       Main IC-Ferst/multifluids Github pages site 
+    </a> <br>
+    <a href="http://www.imperial.ac.uk/engineering/departments/earth-science/research/research-groups/amcg/">
+       <img class="Logo" src="./Home page_files/AMCG-logo.gif" width="80px">
+       Applied Modelling and Computation Group
+    </a><br>
+    <a href="http://www.imperial.ac.uk/engineering/departments/earth-science/research/research-groups/norms/">
+       <img class="Logo" src="./Home page_files/NORMS.gif" width="80px"> 
+       Novel Reservoir Modelling and Simulation Group
+    </a><br>
+    <a href="http://www.imperial.ac.uk/">
+   <img class="Logo" src="./Home page_files/ImperialLogo.png" width="80px">
+         Imperial College London
+    </a><br>
+    <a href="http://buildbot.ese.ic.ac.uk:8080/"> <em>Fluidity</em> buildbot page</a><br>
+  
+      </section>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  
+
+</body></html>
